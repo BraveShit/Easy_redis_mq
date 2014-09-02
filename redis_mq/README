@@ -1,0 +1,23 @@
+
+目录说明
+=======
+example/ 
+        接口举例
+libredismq.a 
+        reidis消息队列的静态库
+redis_mq.conf  
+       消息队列, 配置文件, 为/etc/redis_mq.conf
+
+使用说明
+======
+请参照example目录
+
+
+TODO list
+=========
+
+INSTALL
+=========
+1. make
+	depend on the libreadconf.a
+2. make install
